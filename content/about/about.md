@@ -16,4 +16,4 @@ I'm involved in several open source projects:
 Outside of technology I am an avid hunter and conservationist, boating and water sports enthusiast, and member of the United States Coast Guard Auxiliary having held the rank of Flotilla Commander in the past.  I have been certified as a crewman, coxswain, and PWC operator.
 
 ![Jonathan and Caroline at CERN](/images/jonathan-and-caroline-at-cern.jpg)
-_My wife and in the Large Hadron Collider at CERN as part of an AlmaLinux tour._
+_My wife and me in the Large Hadron Collider at CERN as part of an AlmaLinux tour._
