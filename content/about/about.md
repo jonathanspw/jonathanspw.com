@@ -14,3 +14,5 @@ I'm involved in several open source projects:
 - Through my work with AlmaLinux and Fedora I have contributed to various projects that can be seen via [GitHub](https://github.com/jonathanspw).
 
 Outside of technology I am an avid hunter and conservationist, boating and water sports enthusiast, and member of the United States Coast Guard Auxiliary having held the rank of Flotilla Commander in the past.  I have been certified as a crewman, coxswain, and PWC operator.
+
+![Jonathan and Caroline at CERN](/images/jonathan-and-caroline-at-cern.jpg)
