@@ -3,28 +3,6 @@ title: "Caught in the Crossfire: Red Hat vs. Rebuilds"
 date: "2023-07-02"
 ---
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.418 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Sun Jul 02 2023 12:02:31 GMT-0700 (PDT)
-* Source doc: Caught in the Crossfire: Red Hat vs. Rebuilds
------>
-
-
 The recent news of Red Hat’s decision to [stop publishing sources on git.centos.org](https://www.redhat.com/en/blog/furthering-evolution-centos-stream) and its [follow-up](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes) with quotes like “we have determined that there isn’t value in having a downstream rebuilder” has sent shockwaves across the open source community.  Many are calling for Red Hat’s head on a pike, and to the contrary many support Red Hat’s decision.
 
 Red Hat has made its position clear, many Red Hat employees have taken to Twitter to express their opinions, and the community has responded as well.  Most rebuilds have posted official statements, but no one from the other side of Red Hat’s argument has responded on a personal level.
