@@ -51,7 +51,6 @@ Flock was easily one of my favorite conferences to attend.  I cannot wait for ne
 The opportunities to meet people that I’ve been working with for so long were priceless.  I’d like to especially thank Fedora and by extension Red Hat for welcoming me and AlmaLinux to Flock with open arms.  It was an experience that I’ll never forget.  I’m thankful to AlmaLinux for sponsoring my travel and trusting me as a representative of our great community and Fedora along with my good friend Carl George for helping to make it all come together at the very last minute with the hotel.
 
 ![Tivoli Room](/images/2023/08/tivoli_room.jpg)
-
 ![Flock to Fedora 2023 Group Photo](/images/2023/08/flock-2023-group-photo.jpg)
 
 ### **PS**
