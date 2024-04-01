@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: single
+layout: about
 ---
 
 Hello world, I'm Jonathan Wright.
